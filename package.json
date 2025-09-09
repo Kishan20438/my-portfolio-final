@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://kishan20438.github.io/my-portfolio-final",
+  "homepage": ".",
   "dependencies": {
     "framer-motion": "^10.16.4",
     "lucide-react": "^0.368.0",
