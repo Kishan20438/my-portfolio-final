@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/itsmekishan/static/css/main.e87ac0f3.css",
-    "main.js": "/itsmekishan/static/js/main.527dfd5f.js",
+    "main.css": "/itsmekishan/static/css/main.589ffec3.css",
+    "main.js": "/itsmekishan/static/js/main.31dcd30d.js",
     "index.html": "/itsmekishan/index.html",
-    "main.e87ac0f3.css.map": "/itsmekishan/static/css/main.e87ac0f3.css.map",
-    "main.527dfd5f.js.map": "/itsmekishan/static/js/main.527dfd5f.js.map"
+    "main.589ffec3.css.map": "/itsmekishan/static/css/main.589ffec3.css.map",
+    "main.31dcd30d.js.map": "/itsmekishan/static/js/main.31dcd30d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e87ac0f3.css",
-    "static/js/main.527dfd5f.js"
+    "static/css/main.589ffec3.css",
+    "static/js/main.31dcd30d.js"
   ]
 }
